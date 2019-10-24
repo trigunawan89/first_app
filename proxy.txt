@@ -1,0 +1,6 @@
+
+Current WinHTTP proxy settings:
+
+    Proxy Server(s) :  proxy.app.co.id:8080
+    Bypass List     :  (none)
+
